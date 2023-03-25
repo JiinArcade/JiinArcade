@@ -8,7 +8,7 @@
   <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/jn_ll@naver.com-03C75A?style=  for-the-badge&logo=Naver&logoColor=white"/></a>
 </div>
 
-<br>
+<br><br><br>
 
 <h3 align="center">🍟..Used as the Main</h3>
 <div align="center">
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center">👩‍💻 My GitHub Starts👩‍💻</h3>
 <div align="center">
