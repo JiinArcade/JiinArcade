@@ -12,6 +12,8 @@
 
 <h3 align="center">🍟..used as the main</h3>
 <div align="center">
+//일러스트
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 </div>
 
