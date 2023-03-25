@@ -8,7 +8,7 @@
 
 <h3 align="center">🌎SNS LIST🌏</h3>
 <div align="center">
-  <a href="https://www.instagram.com/effloresce_jn/" target="_blank"><img src="https://img.shields.io/badge/222222=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/effloresce_jn/" target="_blank"><img src="https://img.shields.io/badge/#E4405F=flat-square&logo=instagram&logoColor=white"/></a>
 </div>
 
 
